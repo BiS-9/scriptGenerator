@@ -31,6 +31,8 @@ or
 * Give execution permissions.
 * Open the command line editor.
 
+![V0.3](https://1.bp.blogspot.com/-ov0Sbv2NwTo/YUNyTjMxPQI/AAAAAAAAAD8/tUdmfFv6IDAlKFv0a4NLRWuxsF_jX1KZwCLcBGAsYHQ/s897/003.png)
+
 ## Author
 [Bi$](https://github.com/BiS-9)
 
