@@ -31,10 +31,14 @@ or
 * Give execution permissions.
 * Open the command line editor.
 
-![V0.3](https://1.bp.blogspot.com/-ov0Sbv2NwTo/YUNyTjMxPQI/AAAAAAAAAD8/tUdmfFv6IDAlKFv0a4NLRWuxsF_jX1KZwCLcBGAsYHQ/s897/003.png)
+<p align="center">
+<img src="https://1.bp.blogspot.com/-ov0Sbv2NwTo/YUNyTjMxPQI/AAAAAAAAAD8/tUdmfFv6IDAlKFv0a4NLRWuxsF_jX1KZwCLcBGAsYHQ/s897/003.png" width="600" height="450">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Author
 [Bi$](https://github.com/BiS-9)
+
+[Visit the blog page!](https://doctrina-ambulare.blogspot.com/2021/09/generador-de-scripts.html)
 
 ## License
 This project is under the  GPL-3.0 License - see the [LICENSE.md](https://github.com/BiS-9/scriptGenerator/blob/main/LICENSE) file for more details.
